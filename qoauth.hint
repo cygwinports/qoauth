@@ -1,0 +1,4 @@
+category: KDE Net
+sdesc: "Qt4 OAuth library (sources)"
+ldesc: "QOAuth is an attempt to support interaction with OAuth-powered 
+network services in a Qt way, i.e. simply, clearly and efficiently."

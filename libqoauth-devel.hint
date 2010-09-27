@@ -1,0 +1,6 @@
+category: KDE Net
+requires: libqoauth1 libqca2-devel libQtCore4-devel libQtNetwork4-devel
+external-source: qoauth
+sdesc: "Qt4 OAuth library (development)"
+ldesc: "QOAuth is an attempt to support interaction with OAuth-powered 
+network services in a Qt way, i.e. simply, clearly and efficiently."

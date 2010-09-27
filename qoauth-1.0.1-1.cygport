@@ -1,0 +1,11 @@
+GIT_URI="git://github.com/ayoy/qoauth.git"
+GIT_TAG=v${PV}
+inherit qt4-qmake git
+
+DESCRIPTION="Qt4 QAuth library"
+HOMEPAGE="http://github.com/ayoy/qoauth"
+
+
+PKG_NAMES="libqoauth1 libqoauth-devel"
+libqoauth1_CONTENTS="usr/bin/*-1.dll usr/share/doc/"
+libqoauth_devel_CONTENTS="usr/include/ usr/lib/ usr/share/qt4/"
